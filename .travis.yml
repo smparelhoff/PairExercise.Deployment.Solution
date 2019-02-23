@@ -24,4 +24,4 @@ deploy:
   provider: heroku
   app: sparelhoff-test-one # see README
   api_key:
-    secure: YOUR-***ENCRYPTED***-API-KEY-HERE
+    secure: wAY/WVGXtrlQb8kW4KGwOwrNLQuyvSxdF321841/xMzNw2R/893Rh1uSz4I6iXhBDvr6RRlE4VZf744Mv8hgnIGCBWDvmmv2V4eoQrQCwwZtfQg20WD17UflkHnJE6d8+ANVuWKlf74vnNxwbtu/NYa932sbJoZKHgRm9HvVQWnpJ8Ux+amCCQYErhTf0XnaIufqJr5R2nGImw1mIqigW1qIfl+gmF34+tA1DMhjzJFlMH2lsGi9Lh2wb7pbKX0pn4VDcRoCHFUmptOICjlECTveKEUagUPoJu4kPSSPNsgSVJdINT/mR8yM5pffTXyZOWmOwlDJGVF0792rsoOz25teocCjbJTiLbr7MQG0axAmflIaKrkN+yRjZ8MMsTk5/oKaWhtpkWrUGFZDNA8veayh1kPrFR2/XwOyuOr+zgGhxO5vFGM+ZJudlfd/dP5Nrq7hFgFWD8LRtE1WPw9cc5HqohY4T36x+YbCzliWHEdg0u0RG4VLJZYMXnbdsn3kLxOgawdzgszg2rqEJYXaCIm3+2DUhEr6Ys0EP1sOkGlhIUdb4KGTqA+Y2TVIhHCGk8U/TlV2ACznw4lvSuKsWRuc+lovyYC2IY3xfEZCrbHITaFuCBAk7iRdEFZ3mz/weir5v1+CUTeNlGe8av2Z1na4NyEqF+l7rVLzCJyKMHg=
